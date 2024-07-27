@@ -1,0 +1,19 @@
+{
+	"geode": "3.3.0",
+	"gd": {
+		"android": "2.206",
+		"mac": "2.206",
+		"win": "2.206"
+	},
+	"version": "v1.0.0",
+	"id": "omgrod.live_translator",
+	"name": "Live Translator",
+	"developer": "OmgRod",
+	"description": "Translates text into major languages automatically.",
+	"early-load": true,
+	"resources": {
+		"files": [
+			"lang/*.json"
+		]
+	}
+}
